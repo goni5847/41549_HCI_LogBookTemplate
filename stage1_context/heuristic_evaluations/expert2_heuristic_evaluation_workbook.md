@@ -2,9 +2,9 @@
 Nielsen Norman Group available at: https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_-_Nielsen_Norman_Group.pdf
 -->
 
-**Evaluator**: [Evaluator Name]
-**Date**: [DD-MM-AAAA]
-**Product**: [SuperMaxiApp]
+**Evaluator**: Vasco Pereira
+**Date**: 27-02-2025
+**Product**: AveiroBus Website
 
 
 Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
