@@ -27,7 +27,6 @@
 ### - Heuristic Evaluation
 
 #### Method
-[ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
 Foi avaliado o website por 3 especialistas, utilizando as 10 heuristicas de Jakob Nielsen, numa escala de 0 a 4. 
 
 
@@ -45,15 +44,16 @@ Foi avaliado o website por 3 especialistas, utilizando as 10 heuristicas de Jako
 
 #### Consensus
 
->	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
 | **Issue**       | Rodrigo | Vasco | Gonçalo | Recommendations                             |
 | --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Aviso mal identificado | 1            | 1        | 0        | Os avisos poderiam ser mais impactantes |
-| Não existir rotas preferidas   | 2            | 2        | 0        | Ser possivel selecionar rotas preferidas |
-| Não ser possível procurar horários | 4   | 3 |  3  | SearchBar/Menu com origem e destino para destino |
-||||
-||||
+| Aviso mal identificado 			| 1	| 0 | 1 | Os avisos poderiam ser mais impactantes |
+| Não existir rotas preferidas   	| 2 | 2 | 0 | Ser possivel selecionar rotas preferidas |
+| Não ser possível procurar horários| 4 | 3 | 3 | SearchBar/Menu com origem e destino para destino |
+|Design de página complexo			| 3 | 3 | 1 | Simplificar estrutura do website|
+|Falta de Documentação de ajuda		| 3 | 0 | 3 |Criar uma FAQ ou separador de Ajuda|
+|Falta de botão Undo 				| 2 | 0 | 1 | Criar um botão claro para Undo |
+| Mapa mistura cores de linha 		| 0 | 3 | 0 | Refazer 
 
 
 
