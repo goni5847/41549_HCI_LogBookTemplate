@@ -14,9 +14,7 @@
 
 | **Competitor**    | **Description**                             | Information repository              |
 | ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
-| [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                     |
-| ...               |                                             |                                     |
+| BusWay | App de transporte da BusWay        | [BusWay Analysis](../stage1_context/competitors/Competitor%20Analysis%20BusWay.md) | AveiroBus  | Website de transported públicos de Aveiro | [AveiroBus Analysis](../stage1_context/competitors/Competitor%20Analysis%20AveiroBus.md) |
 
 
 

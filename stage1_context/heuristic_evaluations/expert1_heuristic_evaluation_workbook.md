@@ -75,7 +75,8 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Não existem shortcuts para usuarios frequentes | 4 | Ser possivel ter uma conta com horarios preferidos |
+| Não é possivel selecionar destino especificose | 3 | Ser possivel ter uma conta com horarios preferidos |
+|  Não existem "preferidas" | 2 | Ser possivel 
 
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
