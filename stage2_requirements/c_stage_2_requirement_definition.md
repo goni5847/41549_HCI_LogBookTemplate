@@ -47,15 +47,33 @@
 # Scenarios
 
 
-## Scenario 1: Maria goes on a Museum Tour
+## Scenario 1: O Emanuel precisa de carregar o passe
 
-[Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**.  ]
+[O Emanuel vive em Esgueira, longe de locais de carregamento de passe de autocarro e precisa, todos os meses, de usar **transporte público** para frequentar aulas na Universidade de Aveiro. Por isso, prefere usar o **site da empresa** fornecedora de transporte para **carregar o seu passe mensal**. ]
 
-[As she entered the museum, Maria received a notification on her phone, reminding her to launch the app. She opened it and was greeted with a personalized welcome screen. The system, aware of her general interests in **digital media and abstract art**, suggested a self-guided tour tailored to her preferences.  ]
+[Ao aceder ao website, são apresentados os serviços que a empresa fornece. Viagens de longo curso, viagens de ferry e circuito urbano. O Emanuel escolhe o circuito urbano. No mapa fornecido, o Emanuel procura a origem da sua viagem e destino. Ao obter as rotas, determina a(s) linha(s) para o seu passe. ]
 
-[Curious, Maria followed the suggested path. As she approached the first painting, the guide vibrated slightly—a prompt that additional content was available. Holding up the guide, she saw an **overlay** appear on the screen, revealing a time-lapse animation of the artist creating the piece. A small **audio clip** played, explaining the artist’s thought process and influences. Maria found this fascinating; it was as if the artwork was coming to life in front of her.  ]
+[Para carregar o passe, o Emanuel faz Login com um nome de utilizador e uma palavra-passe. O cartão-passe do autocarro está associado à sua conta. O Emanuel escolhe carregar esse passe. Escolhe a(s) linha(s), e efetua o pagamento online (MBWay?). O site confirma a realização do pagamento.]
 
-[As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
+## Scenario 2: O Emanuel precisa de comprar viagens individuais
+
+[O Emanuel precisa de visitar uma área em Aveiro longe das rotas associadas ao seu passe mensal. Para isso determinou que obter viagens individuais que compensa mais.]
+
+[Ao aceder ao website, são apresentados os serviços que a empresa fornece. Viagens de longo curso, viagens de ferry e circuito urbano. O Emanuel escolhe o circuito urbano. No mapa fornecido, o Emanuel procura os locais que correspondem à origem da sua viagem e destino. Ao obter o nome das paragens mais próximas, pesquisa possíveis rotas e determina a(s) linha(s) para a sua viagem. ]
+
+[Para comprar viagens individuais não é necessário fazer login, pois o a plataforma regista o pagamento e emite um código QR identificador da viagem.]
+
+## Scenario 3: O Emanuel quer comprar viagens de ferry
+
+[O Emanuel quer visitar amigos em S.Jacinto e para isso precisa de comprar viagens de ferry. Ao aceder ao website, ele escolhe a opção de transporte fluvial que o reencaminha para a empresa que gere os transportes fluviais entre Aveiro e S.Jacinto.]
+
+[A partir daqui, o Emanuel utilizará a plataforma da empresa que explora o ferry.]
+
+## Scenario 4: O Emanuel quer verificar o atraso do autocarro
+
+[O Emanuel está na paragem de autocarros mas o autocarro está um pouco atrasado. Ele quer verificar se o atraso se vai prolongar para decidir se continua a esperar ou se escolhe uma alternativa como o Uber. Para isso, o Emanuel vai ao site da empresa e pesquisa pela paragem origem destino que representa a sua viagem.]
+
+[Ao pesquisar a lista de autocarros do dia que efetuam essa rota, ele seleciona o autocarro da hora atual. Ele é redirecionado para um mapa em tempo real que indica a posição atual do autocarro. Com esta informação, se for aparente que o atraso se vai prolongar, o Emanuel irá escolher uma alternativa de última hora.]
 
 ---
 
