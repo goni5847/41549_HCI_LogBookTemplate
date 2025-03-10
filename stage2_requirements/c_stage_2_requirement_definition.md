@@ -82,10 +82,25 @@
 
 
 ## C.1. Functional requirements
-
+- tem de ter forma de selecionar circuito urbano
+- tem de ter forma de selecionar transporte fluvial
+- tem de ter uma barra de pesquisa de viagens pela origem e/ou destino
+- tem de ter forma de selecionar viagens da pesquisa
+- tem de ter forma de criar conta
+- tem de ter forma de fazer login numa conta
+- tem de ter forma de efetuar pagamento online
+- tem de apresentar um mapa relativo à viagem
 
 ## C.2. Non-functional requirements
-
+- a pesquisa de viagens tem de informar que está a dar load
+- a pesquisa de viagens tem de apresentar uma lista por ordem cronológica da viagem mais próxima (temporalmente) à mais distante
+- a pesquisa de viagens tem de indicar a linha em que a viagem se realiza
+- ao selecionar transporte fluvial o site tem de avisar que vai redirecionar o utilizador para um novo separador direcionado para o site da empresa do ferry.
+- o sítio para criar/fazer login duma conta deve existir conforme normas de outros sites(em cima à direita) e estar bem visível
+- ao efetuar pagamento online o site tem de indicar claramente a(s) plataforma(s) que usa
+- o site tem de identificar claramente se o pagamento foi efetuado com sucesso ou se falhou
+- o mapa relativo à viagem tem de ser responsivo e interativo
+- o mapa deve apresentar a posição do autocarro em tempo real
 
 ---
 [Back to main Logbook Page](hci_logbook.md)
