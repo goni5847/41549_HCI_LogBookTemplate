@@ -14,21 +14,20 @@
 
 | **Competitor**    | **Description**                             | Information repository              |
 | ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
-| [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                     |
-| ...               |                                             |                                     |
+| BusWay | App de transporte da BusWay        | [BusWay Analysis](../stage1_context/competitors/Competitor%20Analysis%20BusWay.md) |
+ AveiroBus  | Website de transportes públicos de Aveiro | [AveiroBus Analysis](../stage1_context/competitors/Competitor%20Analysis%20AveiroBus.md) |
 
 
 
 
 ## B.1b. Detailed Competitor Analysis
->	Choose the most notable competitor and do a more thorough analysis of their interactive solution
+>	AveiroBus
 
 
 ### - Heuristic Evaluation
 
 #### Method
-[ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
+Foi avaliado o website por 3 especialistas, utilizando as 10 heuristicas de Jakob Nielsen, numa escala de 0 a 4. 
 
 
 #### Individual Evaluations
@@ -36,22 +35,25 @@
 
 
 
-- [expert1_heuristic_evaluation_workbook](heuristic_evaluations/expert1_heuristic_evaluation_workbook.md)
+- [Rodrigo Heuristic Evaluation](heuristic_evaluations/Rodrigo_heuristic_evaluation_workbook.md)
 
-- [expert2_heuristic_evaluation_workbook](heuristic_evaluations/expert2_heuristic_evaluation_workbook.md)
+- [Vasco Heuristic Evaluation](heuristic_evaluations/Vasco_heuristic_evaluation_workbook.md)
 
-- [expert3_heuristic_evaluation_workbook](heuristic_evaluations/expert3_heuristic_evaluation_workbook.md)
+- [Gonçalo Heuristic Evaluation](heuristic_evaluations/Goncalo_heuristic_evaluation_workbook.md)
 
 
 #### Consensus
 
->	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
-| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
+| **Issue**       | Rodrigo | Vasco | Gonçalo | Recommendations                             |
 | --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
-| ...             |              |          |          |                                             |
+| Aviso mal identificado 			| 1	| 0 | 1 | Os avisos poderiam ser mais impactantes |
+| Não existir rotas preferidas   	| 2 | 2 | 0 | Ser possivel selecionar rotas preferidas |
+| Não ser possível procurar horários| 4 | 3 | 3 | SearchBar/Menu com origem e destino para destino |
+|Design de página complexo			| 3 | 3 | 1 | Simplificar estrutura do website|
+|Falta de Documentação de ajuda		| 3 | 0 | 3 |Criar uma FAQ ou separador de Ajuda|
+|Falta de botão Undo 				| 2 | 0 | 1 | Criar um botão claro para Undo |
+| Mapa mistura cores de linha 		| 0 | 3 | 0 | Refazer 
 
 
 
