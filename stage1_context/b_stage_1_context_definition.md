@@ -14,7 +14,7 @@
 
 | **Competitor**    | **Description**                             | Information repository              |
 | ----------------- | ------------------------------------------- | ----------------------------------- |
-| BusWay | App de transporte da BusWay        | [BusWay Analysis](../stage1_context/competitors/Competitor%20Analysis%20BusWay.md) |
+| BusWay | App de transporte da BusWay | [BusWay Analysis](../stage1_context/competitors/Competitor%20Analysis%20BusWay.md) |
  AveiroBus  | Website de transportes públicos de Aveiro | [AveiroBus Analysis](../stage1_context/competitors/Competitor%20Analysis%20AveiroBus.md) |
 
 
@@ -108,12 +108,18 @@ Navegámos o site com uma tarefa em mente, tomando nota das possíveis dififculd
 | 2      | Identificar opção que contém autocarros de pequeno curso | No  |  Linguagem demasiado técnica     | No|       | Yes| Linguagem menos técnica, utilização de ícones | 
 | 3      |  Selecionar circuitos urbanos  | Yes | | Yes | | Yes | |
 | 4 | Procurar mapa | Yes | | Yes| | Yes|  |
-| 5 | Procurar rota no mapa | No | | No | | Yes | Tornar a navegação dos mapas mais simples|
+| 5 | Procurar rota no mapa | No | | No | Como encontrar uma rota no mapa é bastante confuso é possível que o utilizador passe muito tempo nesta tarefa ou desista | Yes | Tornar a navegação dos mapas mais simples|
 
 ## B.1c. Overall Analysis
 
-[Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluatio, cognitive walkthrough, online reviews, user feedback, etc.]
-SWOT
+Descobrimos que grande parte das ofertas sofre principalmente na questão de apresentaçaõ dos horários ou até mesmo na ausência informação acerca destes.
+Muitos dos entrevistados mencionaram que seria útil mais informações acerca da localização dos autocarros bem como uma melhor organização e design mais intuitivo para os horários.
+
+SWOT:
+- Strength: O overall responsiveness não falha
+- Weakness: O design do website é bastante confuso e difícil de navegar 
+- Oportunities: A plataforma de autocarros de Aveiro podia ser complementada com um bom website/app 
+- Threats: A aplicação corre o risco de ser substituido por outros tipos de tranportes privados
 
 ---
 
@@ -123,7 +129,6 @@ SWOT
 
 ## B.2a. Method
 
-[What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
 Tentamos abordar os utilizadores que necessitam de algum tipo de deslocação diária. As entrevistas foram feitas de forma física como também online com o objetivo de obter informações acerca da sua utilização diária de transportes.
 
 ## B.2b. Results

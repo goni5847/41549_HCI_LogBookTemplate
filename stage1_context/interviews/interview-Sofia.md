@@ -24,11 +24,11 @@ Determinar a rota e horário de uma viagem
 ---- 
 ## Tools & Environment 
 **What tools or methods does the user currently rely on?** 
-- uber
+- Uber
 
 
 **Are there any frustrations or limitations with these tools?** 
-- uber é caro
+- Uber é caro
 
 **What features do they wish these tools had?** 
 - [Feature 1] 

@@ -22,8 +22,8 @@
 
 ## Screenshots
 
-![Preview BusWay 1](Screenshots/AveiroBus1.png)
-![Preview BusWay 2](Screenshots/AveiroBus2.png)
+<img src="Screenshots/AveiroBus1.png" alt="Preview AveiroBus 1" width="800"/>
+<img src="Screenshots/AveiroBus2.png" alt="Preview AveiroBus 2" width="800"/>
 
 ## Online Reviews
 

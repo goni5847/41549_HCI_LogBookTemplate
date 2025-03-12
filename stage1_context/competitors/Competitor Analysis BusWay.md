@@ -22,8 +22,8 @@
 
 ## Screenshots
 
-![Preview BusWay 1](Screenshots/BusWay1.png)
-![Preview BusWay 2](Screenshots/BusWay2.png)
+<img src="Screenshots/BusWay1.png" alt="Preview BusWay 1" width="500"/>
+<img src="Screenshots/BusWay2.png" alt="Preview BusWay 2" width="500"/>
 
 ## Online Reviews
 
