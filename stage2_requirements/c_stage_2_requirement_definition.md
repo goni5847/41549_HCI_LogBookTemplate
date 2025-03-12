@@ -9,40 +9,19 @@
 
 # Personas
 
-## Persona: [Persona Name] 
+## Persona: Emanuel
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)  |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
+| **Photo**        | ![Persona Name\|100](personas/persona1.png)  |
+| **Name**         | Emanuel Vicente                              |
+| **Age**          | 20                                 |
+| **Occupation**   | Estudante                          |
+| **Location**     | Portugal,Esgueira                               |
+| **Goals**        | Deslocar-se para as aulas            |
+| **Pain Points**  | Falta de informação sobre autocarros              |
+| **Motivation**   | Necessita de um sistema para se deslocar para as aula              |
 | **Full Profile** | [📄 Read More](personas/persona1_template.md) |
-
----
-## Persona: [Persona Name] 
-### Summary 
-| Attribute        | Details                                       |
-| ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](path/to/photo.jpg)            |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona2_template.md) |
-
----
-
-
-
-
 
 # Scenarios
 
@@ -76,8 +55,6 @@
 [Ao pesquisar a lista de autocarros do dia que efetuam essa rota, ele **seleciona o autocarro da hora atual**. Ele é redirecionado para um mapa em tempo real que indica a posição atual do autocarro. Com esta informação, **se o atraso se prolongar, ele irá escolher uma alternativa de última hora.**]
 
 ---
-
-
 # Requirements
 
 

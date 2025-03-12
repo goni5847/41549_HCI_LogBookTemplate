@@ -49,7 +49,7 @@ Foi avaliado o website por 3 especialistas, utilizando as 10 heuristicas de Jako
 | --------------- | ------------ | -------- | -------- | ------------------------------------------- |
 | Avisos mal identificados 					| 1	| 1 | 1 | Os avisos poderiam ser mais impactantes |
 | Não existir rotas preferidas   			| 2 | 2 | 2 | Ser possivel selecionar rotas preferidas |
-| Não ser possível procurar horários		| 4 | 3 | 3 | SearchBar/Menu com origem e destino para destino |
+| Não ser possível procurar horários		| 4 | 3 | 3 | SearchBar/Menu com origem e destino 		|
 |Design de página complexo					| 3 | 3 | 1 | Simplificar estrutura do website|
 |Falta de Documentação de ajuda				| 3 | 2 | 3 |Criar uma FAQ ou separador de Ajuda|
 |Falta de botão Undo 						| 2 | 1 | 1 | Criar um botão claro para Undo |
@@ -61,39 +61,54 @@ Foi avaliado o website por 3 especialistas, utilizando as 10 heuristicas de Jako
 ### - Cognitive Walkthrough
 
 #### Method
-[Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
+Navegámos o site com uma tarefa em mente, tomando nota das possíveis dififculdades dos utilizadores nas respetivas tarefas 
 
 #### Task Selection and Task Analysis
 
-[Which tasks did you select and why. What are the subtasks entailed for each ]
-
-
 | Task                        | Subtasks                               |
 | --------------------------- | -------------------------------------- |
-| **1. Buyng a grammar book** | Search for available grammar books     |
-|                             | Identify a specific book from the list |
-|                             | Add the selected book to the cart      |
-|                             | Proceeed to checkout                   |
+| **1. Procurar rota específica** | Fechar o aviso      				|
+|                                 | Identificar opção que contém autocarros de pequeno curso |
+|                                 | Selecionar circuitos urbanos|
+|                                 | Procurar barra de pesquisa   |
+|                                 | Procurar estação de origem  |
+|                                 | Procurar estação de destino |
+|                                 | Procurar horário de uma linha em comum (descobrir horáririos) |
 
 
 | Task                          | Subtasks                                |
 | ----------------------------- | --------------------------------------- |
-| **1. Booking a train ticket** | Select departure and destination cities |
-|                               | Choose travel date and time             |
-|                               | Pick a seat (if applicable)             |
-|                               | Confirm booking and make payment        |
-
+| **2. Ver uma rota no mapa**   | Fechar o aviso|
+|                               | Identificar opção que contém autocarros de pequeno curso |
+|                               | Selecionar circuitos urbanos|
+|								| Procurar posição do mapa na página |
+|								| Procurar rota no mapa |
 
 #### Results
 
-Task: [This is the task]
+##### Task1: Procurar rota específica
 
-| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
-| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | [Step 1 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | [Step 2 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | [Step 3 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| ...    | [Further steps]        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |
+| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | 
+| 1      | Fechar o aviso   | Yes                                         |       | Yes                                                                                  |       | Yes                       | Botão para fechar ter o seu próprio background              |     |
+| 2      | Identificar opção que contém autocarros de pequeno curso | No  |  Linguagem demasiado técnica     | No|       | Yes| Linguagem menos técnica, utilização de ícones | 
+| 3      |  Selecionar circuitos urbanos  | Yes | | Yes | | Yes | |
+| 4  | Procurar barra de pesquisa| No |       | Yes|       | Yes| Não fazer barra de pesquisa branca em fundo branco|
+| 5 | Procurar estação de origem | Yes | | Yes | | Yes | |
+| 6 | Procurar estação de destino| Yes | | Yes | | Yes | |
+| 7 | Procurar horário de uma linha em comum (descobrir horáririos) | No | | Yes | O utilizador sabe que está a progredir mas é exacerbado com demasiada informação | Yes |  |
+
+---
+
+##### Task2: Ver uma rota no mapa
+
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |
+| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | 
+| 1      | Fechar o aviso   | Yes                                         |       | Yes                                                                                  |       | Yes                       | Botão para fechar ter o seu próprio background              |     |
+| 2      | Identificar opção que contém autocarros de pequeno curso | No  |  Linguagem demasiado técnica     | No|       | Yes| Linguagem menos técnica, utilização de ícones | 
+| 3      |  Selecionar circuitos urbanos  | Yes | | Yes | | Yes | |
+| 4 | Procurar mapa | Yes | | Yes| | Yes|  |
+| 5 | Procurar rota no mapa | No | | No | | Yes | Tornar a navegação dos mapas mais simples|
 
 ## B.1c. Overall Analysis
 
@@ -109,7 +124,7 @@ SWOT
 ## B.2a. Method
 
 [What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
-Tentamos abordar os utilizadores que necessitam de algum tipo de deslocação diária. As entrevistas foram feitas de forma física como também online.
+Tentamos abordar os utilizadores que necessitam de algum tipo de deslocação diária. As entrevistas foram feitas de forma física como também online com o objetivo de obter informações acerca da sua utilização diária de transportes.
 
 ## B.2b. Results
 
@@ -118,7 +133,7 @@ Tentamos abordar os utilizadores que necessitam de algum tipo de deslocação di
 ### Interview List 
 | Date       | Participant / Role | Key Insights                                                    | Link to Notes                |
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- |
-| 26-02-2025 | Maria/estudante    | Utiliza horários em papel     | [📄 Notes](interviews/interview-Maria_Freitas.md)|
+| 26-02-2025 | Maria/estudante    | Informação sobre atrasos     | [📄 Notes](interviews/interview-Maria_Freitas.md)|
 | 26-02-2025 | Leonor/estudante   | Horários dificéis de pesquisar| [📄 Notes](interviews/interview-Leonor) |
 | 25-02-2025 | Maria/estudante    |  							  | [📄 Notes](interviews/interview-Maria) |
 | 25-02-2025 | Sandra/estudante   | 							  |[📄 Notes](interviews/interview-Sandra)|
@@ -136,7 +151,7 @@ Tentamos abordar os utilizadores que necessitam de algum tipo de deslocação di
 	- Uber
 - **Desired Features / Solutions:** 
 	- Saber tempo de atraso
-	- Melhorar 
+	- Melhorar interface de pesquisa de horários
 - --- 
 
 
