@@ -3,8 +3,8 @@
 > 	The questions included in this file are just possibilities. The questions you do should be adapted to your case, where needed.
 
 ## Interview Details 
-- **Date:** [2025-02-26] 
-- **Interviewer:** [Vasco Pereira] 
+- **Date:** 2025-02-26
+- **Interviewer:** Vasco Pereira
 - **Participant:** Anonymous 
 - **Context:** Entrevista online 
 - --- 
