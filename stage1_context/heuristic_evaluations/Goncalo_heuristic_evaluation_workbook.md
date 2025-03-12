@@ -36,7 +36,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Não existe um undo Claro | 1 | Explicitar uma saída clara para os utilizadores
+| Não existe um undo claro | 1 | Explicitar uma saída clara para os utilizadores
 
 # 4 Consistency and Standards
 >	Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions. 
@@ -45,7 +45,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| ???
+
 
 
 # 5 Error Prevention
@@ -94,7 +94,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Não existem     | 4            | Acrecentar     |
+| Não existem mensagens de erro   | 4            | Acrecentar mensagens de erro    |
 
 # 10 Help and Documentation
 >	It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks. 

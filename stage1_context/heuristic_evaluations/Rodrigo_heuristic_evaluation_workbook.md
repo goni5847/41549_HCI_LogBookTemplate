@@ -16,12 +16,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation                                           |
 | --------------- | ------------ | ---------------------------------------------------------|
-|Falta de feedback|      2       | Ao realizar uma ação, mostrar uma mensagem como          |
-|Em ações do user |              | "A carregar..." ou "Procurar horários..." até que a      |
-|                 |              | informação apareça, para garantir que o utilizador saiba |
-|                 |              | que o sistema está a processar a sua solicitação         |
-|                 |              |                                                          |
-|                 |              |                                                          |
+| Falta de feedback nas ações do user | 2 | Ao realizar uma ação, mostrar uma mensagem como "A carregar..." ou "Procurar horários. " até que a informação apareça, para garantir que o utilizador saiba que o sistema está a processar a sua solicitação |
 
 # 2 Match Between System and The Real World ---------- 3
 >	The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. 
@@ -30,33 +25,12 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation                                           |
 | --------------- | ------------ | ---------------------------------------------------------|
-|Falta de feedback|      2       | Ao realizar uma ação, mostrar uma mensagem como          |
-|Em ações do user |              | "A carregar..." ou "Procurar horários..." até que a      |
-|                 |              | informação apareça, para garantir que o utilizador saiba |
-|                 |              | que o sistema está a processar a sua solicitação         |
-|                 |              |                                                          |
-|                 |              |                                                          |
-**ISSUE1**
-O design do site não segue completamente as convenções comuns em sites de transportes públicos promovendo ao utilizador uma experiência confusa. Por exemplo, ao procurar horários ou percursos, a estrutura da informação pode não ser imediata ou intuitiva para quem está habituado a outros sistemas de transporte. Algumas páginas têm uma apresentação excessivamente textual e pouco visual, o que pode ser desafiador para os utilizadores, especialmente os menos familiarizados com leitura de horários complexos.
+| O design do site não segue completamente as convenções comuns em sites de transportes públicos| 4 | Utilizar novos métodos de procura de hórarios, permitindo ao utilizador uma melhor experiencia |
+| Páginas como as dos circuitas são longas e exigem um tempo de carregamento significativo | 3 | Otimizar e organizar as páginas para conter curta e boa informação para o utilizador |
 
-**SEVERITY**
-4
+**Comentário**
+Ao procurar horários ou percursos, a estrutura da informação pode não ser imediata ou intuitiva para quem está habituado a outros sistemas de transporte. Algumas páginas têm uma apresentação excessivamente textual e pouco visual, o que pode ser desafiador para os utilizadores, especialmente os menos familiarizados com leitura de horários complexos.
 
-**RECOMMENDATION**
-Utilizar novos métodos de procura de hórarios, permitindo ao utilizador uma melhor experiencia
-
--------------------------------------------------------------//-------------------------------------------------------------------------
-
-**ISSUE2**
-Algumas páginas, como as dos circuitos, são longas e exigem um tempo de carregamento significativo, o que pode ser frustrante para o utilizador que quer saber alguma informação sobre autocarros o mais rapido possivel.
-
-**SEVERITY**
-3
-
-**RECOMMENDATION**
-Otimizar e organizar as páginas para conter curta e boa informação para o utilizador.
-
--------------------------------------------------------------//-------------------------------------------------------------------------
 
 # 3 User Control and Freedom ------------------- 3
 >	Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process. 
@@ -67,28 +41,10 @@ Otimizar e organizar as páginas para conter curta e boa informação para o uti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+|Falta de Opções Visíveis de "Voltar" ou "Cancelar" nas Páginas  | 2            |  Adicionar botões que permitam ao utilizador voltar á página anterior, ou então cancelar algo              |
+| Requisação de passe não pode ser cancelada  | 3           |  Adicionar um separador que permita ao user obter informações sobre o seu pedido de passe e que o permita cancelar/editar              |
 
-**ISSUE1**
-Falta de Opções Visíveis de "Voltar" ou "Cancelar" nas Páginas.
 
-**SEVERITY**
-2
-
-**RECOMMENDATION**
-Adicionar botões que permitam ao utilizador voltar á página anterior, ou então cancelar algo.
--------------------------------------------------------------//-------------------------------------------------------------------------
-
-**ISSUE2**
-O facto de quando o user faz uma requisição de passe, não pode nem alterar nem cancelar essa requisição.
-**SEVERITY**
-3
-
-**RECOMMENDATION**
-Adicionar um separador que permita ao user obter informações sobre o seu pedido de passe e que o permita cancelar/editar
-
--------------------------------------------------------------//-------------------------------------------------------------------------
 
 # 4 Consistency and Standards --------------------- 2
 >	Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions. 
@@ -97,18 +53,10 @@ Adicionar um separador que permita ao user obter informações sobre o seu pedid
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| Inconsistência no Estilo Visual entre Páginas | 2            |Manter um estilo consistente em todo o site |
 
-**ISSUE1**
-Inconsistência no Estilo Visual entre Páginas, por exemplo, o estilo visual da página Circuitos urbanos, é completamente diferente do estilo visual da página Requisição de passes.
-
-**SEVERITY**
-2
-
-**RECOMMENDATION**
-Manter um estilo consistente em todo o site.
--------------------------------------------------------------//-------------------------------------------------------------------------
+**Comentário**
+O estilo visual da página Circuitos urbanos, é completamente diferente do estilo visual da página Requisição de passes.
 
 # 5 Error Prevention --------------------- 1
 >	Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action. 
@@ -117,19 +65,10 @@ Manter um estilo consistente em todo o site.
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| Falta de Confirmação Antes de Ações Irreversíveis | 3            |  Implementar uma etapa de confirmação em processos irreversíveis. Mostrar um separador com um resumo da ação que o utilizador está prestes a realizar, permitindo-lhe confirmar ou cancelar a operação antes de avançar |
 
-**ISSUE1**
-Falta de Confirmação Antes de Ações Irreversíveis, no caso também da requisição de passes.
 
-**SEVERITY**
-3
 
-**RECOMMENDATION**
-Implementar uma etapa de confirmação em processos irreversíveis. Mostrar um separador com um resumo da ação que o utilizador está prestes a realizar, permitindo-lhe confirmar ou cancelar a operação antes de avançar.
-
--------------------------------------------------------------//-------------------------------------------------------------------------
 
 # 6 Recognition Rather than Recall --------------------- 4
 >	Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. 
@@ -138,18 +77,10 @@ Implementar uma etapa de confirmação em processos irreversíveis. Mostrar um s
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| O site não apresenta algumas informações importantes, como horários ou percursos, de maneira constante e acessível | 3            | Garantir que informações essenciais, como horários e percursos, sejam facilmente acessíveis de acordo com as preferências do user |
 
-**ISSUE1**
-O site não apresenta algumas informações importantes, como horários ou percursos, de maneira constante e acessível, exigindo que o utilizador memorize ou procure ativamente por essas informações em várias páginas.
-**SEVERITY**
-3
-
-**RECOMMENDATION**
-Garantir que informações essenciais, como horários e percursos, sejam facilmente acessíveis de acordo com as preferências do user
-
--------------------------------------------------------------//-------------------------------------------------------------------------
+**Comentário**
+O site não apresentar algumas informações importantes, exige  ao utilizador que memorize ou procure ativamente por essas informações em várias páginas.
 
 # 7 Flexibility and Efficiency of Use ---------------------- 3
 >	Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. 
@@ -158,30 +89,8 @@ Garantir que informações essenciais, como horários e percursos, sejam facilme
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
-
-**ISSUE1**
-O site não permite que os utilizadores personalizem a sua experiência, como guardar percursos/horários favoritos para futuras visitas.
-
-**SEVERITY**
-2
-
-**RECOMMENDATION**
-Implementar a um sistema de login e personalização, permitindo que os utilizadores guardem percursos/horários
-
--------------------------------------------------------------//-------------------------------------------------------------------------
-
-**ISSUE2**
-O site não permite ao user escolher opções para a sua pesquisa. 
-
-**SEVERITY**
-3
-
-**RECOMMENDATION**
-Adicionar uma função de pesquisa avançada, que permita aos utilizadores filtrar percursos e horários de acordo com critérios específicos.
-
--------------------------------------------------------------//-------------------------------------------------------------------------
+|O site não permite que os utilizadores personalizem a sua experiência | 2 | Implementar a um sistema de login e personalização, permitindo que os utilizadores guardem percursos/horários |
+| O site não permite ao user escolher opções para a sua pesquisa | 3 | Adicionar uma função de pesquisa avançada, que permita aos utilizadores filtrar percursos e horários de acordo com critérios específicos |
 
 # 8 Aesthetic and Minimalist Design ------------------------- 3
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
@@ -190,30 +99,9 @@ Adicionar uma função de pesquisa avançada, que permita aos utilizadores filtr
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+|A página inicial do site apresenta muitos elementos e informações ao mesmo tempo | 3 | Simplificar a página inicial |
+| Alguns textos têm tamanho de fonte pequeno   | 3 | Em vez de usar imagens com percursos, utilizar tabelas com tamanho de letra visivel |
 
-**ISSUE1**
-A página inicial do site apresenta muitos elementos e informações ao mesmo tempo, o que pode confundir o utilizador
-
-**SEVERITY**
-3
-
-**RECOMMENDATION**
-Simplificar a página inicial
-
--------------------------------------------------------------//-------------------------------------------------------------------------
-
-**ISSUE2**
-Alguns textos, como horários ou informações relacionadas aos percursos, têm tamanhos de fonte pequenos e podem ser difíceis de ler, especialmente em dispositivos móveis.
-
-**SEVERITY**
-3
-
-**RECOMMENDATION**
-Na vez de usar imagens com percursos, utilizar tabelas com tamanho de letra visivel.
-
--------------------------------------------------------------//-------------------------------------------------------------------------
 
 # 9 Help Users Recognize, Diagnose, and Recover from Errors ---------- 3 (avisa erro um a um)
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
@@ -222,19 +110,11 @@ Na vez de usar imagens com percursos, utilizar tabelas com tamanho de letra visi
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| O site frequentemente não oferece orientações ou soluções claras para os erros que ocorrem | 2            | O site deverá tentar ajudar o user sugerindo uma correção               |
 
-**ISSUE1**
-O site frequentemente não oferece orientações ou soluções claras para os erros que ocorrem. Por exemplo, no caso de pesquisa de linhas, caso pesquise "hospitel" na vez de "hospital", aparece erro por não haver nenhuma paragem com esse nome.
-
-**SEVERITY**
-2
-
-**RECOMMENDATION**
-O site deverá tentar ajudar o user sugerindo uma correção do género "Queria dizer Hospital?"
-
--------------------------------------------------------------//-------------------------------------------------------------------------
+**Comentário**
+No caso de pesquisa de linhas, caso pesquise "hospitel" na vez de "hospital", aparece erro por não haver nenhuma paragem com esse nome. 
+O site deverá tentar ajudar o user sugerindo uma correção do género "Queria dizer Hospital?".
 
 
 # 10 Help and Documentation --------------- 4
@@ -244,16 +124,8 @@ O site deverá tentar ajudar o user sugerindo uma correção do género "Queria 
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| O site não apresenta um separador onde os utilizadores possam encontrar respostas para dúvidas frequentes | 3 |  Criar um separador de "Ajuda" ou "Perguntas Frequentes (FAQ)" acessível no menu principal |
 
-**ISSUE1**
-O site não apresenta um separador onde os utilizadores possam encontrar respostas para dúvidas frequentes, como horários, tarifas e formas de pagamento.
 
-**SEVERITY**
-3
 
-**RECOMMENDATION**
-Criar um separador de "Ajuda" ou "Perguntas Frequentes (FAQ)" acessível no menu principal
 
--------------------------------------------------------------//-------------------------------------------------------------------------
